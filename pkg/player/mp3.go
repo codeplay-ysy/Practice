@@ -1,4 +1,4 @@
-package mp3
+package mp
 
 import (
 	"fmt"
