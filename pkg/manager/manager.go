@@ -1,4 +1,4 @@
-package mlib
+package manager
 
 import (
 	"errors"
